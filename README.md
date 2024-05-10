@@ -1,5 +1,7 @@
 # BankManagerProject
-A Bank Management Related data prediction, on deposite prediction with individual.
+This Project aims at predictive analytics in financial marketing. Analyzing the data of a Portuguese bank's marketing campaigns
+Forecast client engagement with term deposit subscriptions. To determine the effectiveness of the campaign's success to other shareholders
+
 The data inside the data is shown follow: 
 1.	age (numeric)
 2.	job: type of job (categorical: 'admin.','blue-collar', 'entrepreneur', 'housemaid', 'management', 'retired','self-employed', 'services', 'student', 'technician', 'unemployed', 'unknown')
