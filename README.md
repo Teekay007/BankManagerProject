@@ -1,5 +1,5 @@
 # BankManagerProject
-An Bank Management Related data prediction, on deposite prediction with individual.
+A Bank Management Related data prediction, on deposite prediction with individual.
 The data inside the data is shown follow: 
 1.	age (numeric)
 2.	job: type of job (categorical: 'admin.','blue-collar', 'entrepreneur', 'housemaid', 'management', 'retired','self-employed', 'services', 'student', 'technician', 'unemployed', 'unknown')
